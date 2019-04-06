@@ -1,2 +1,2 @@
 from ev3dev2.sound import Sound
-Sound().playTone(404,1)
+Sound().play_tone(404,1)
